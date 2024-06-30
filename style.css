@@ -1,0 +1,38 @@
+
+    #paragraf1{
+        color: blue;
+    }
+    body{
+        background-color: bisque;
+    }
+    li{
+        list-style:circle;
+    }
+    ul{
+        background-color: brown;
+    }
+    li{
+        background-color: chartreuse;
+    }
+    #text{
+        background-color: brown;color: black;border: 3px solid;border-radius: 5px;margin-right: 1100px;margin-left: 20px;
+    }
+    #b{
+        margin:60px ;
+    }
+    #a{
+        margin: 25px;
+    }
+    #img{
+        height: 300px;width: 500px;
+    }
+    #im{
+        height: 300px;width: 500px;
+    }
+    #div3{
+        float: left;padding: 1px;
+    }
+   
+   
+   
+    
